@@ -1,0 +1,10 @@
+{
+  "entityType" : "locations", 
+  "fields" : [
+    "name",
+    "address", 
+    "phone", 
+    "photos", 
+    "c_coupons", 
+  ]
+}

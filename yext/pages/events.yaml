@@ -1,0 +1,7 @@
+{
+    "name": "Event Pages", #Display name in the UI. Required. 
+    "pageTemplate" : "event_pages.tmpl",  # Template for the HTML of the webpage. Required 
+    "urlTemplate" : "entity_pages_url.tmpl", # Template for the URL of the webpage. Optional. 
+    "streamLabel" : "account-3356190/events" # Specify input data from Graph Merge. Optional - can use "streamData" directive instead.  
+}
+

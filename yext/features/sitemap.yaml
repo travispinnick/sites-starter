@@ -1,0 +1,6 @@
+{
+  "name": "XML Sitemap",    
+  "urlTemplate": "xmlSitemap.tmpl",
+  "blacklist": ["robots.txt", "reviews.html"]
+      
+}
