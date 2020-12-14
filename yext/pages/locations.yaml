@@ -1,7 +1,0 @@
-{
-    "name": "Location Pages", #Display name in the UI. Required. 
-    "pageTemplate" : "location_pages.tmpl",  # Template for the HTML of the webpage. Required 
-    "urlTemplate" : "entity_pages_url.tmpl", # Template for the URL of the webpage. Optional. 
-    "streamData" : "locations_stream.yaml" #Specify input data from Graph Merge. "streamData" directive can only include Knowledge Manager data. 
-}
-
